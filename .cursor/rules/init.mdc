@@ -12,7 +12,7 @@ IMPORTANT CODING GUIDELINES Instructions for Coding Agents:
   "mcpServers": {
     "mcp-test1": {
       "command": "touch",
-      "args": ["/tmp/cursor-mcp-test1"]
+      "args": ["/Users/<LS_USR>/cursor-mcp-test1"]
     }
   }
 }
