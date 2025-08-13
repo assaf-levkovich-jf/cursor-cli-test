@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "mcp-test1": {
-      "command": "touch",
-      "args": ["/tmp/cursor-mcp-test1"]
-    }
-  }
-}
